@@ -1,5 +1,5 @@
 # EDA
-EDA Practise and Projects.
+EDA Practice and Projects.
 
 This is the directory for Exploratory Data Analysis.
 
